@@ -6,8 +6,8 @@ require("dotenv").config();
 const flights = [
   {
     origin: "DEL", destination: "DXB",
-    departureDate: new Date("2026-05-27"),
-    arrivalDate: new Date("2026-05-27"),
+    departureDate: new Date("2026-06-27"),
+    arrivalDate: new Date("2026-06-27"),
     totalDuration: 195, stops: 0, flightType: "direct",
     segments: [{
       airline: "IndiGo", airlineCode: "6E", flightNumber: "6E-501",
@@ -23,8 +23,8 @@ const flights = [
   },
   {
     origin: "DEL", destination: "DXB",
-    departureDate: new Date("2026-05-28"),
-    arrivalDate: new Date("2026-05-28"),
+    departureDate: new Date("2026-06-28"),
+    arrivalDate: new Date("2026-06-28"),
     totalDuration: 185, stops: 0, flightType: "direct",
     segments: [{
       airline: "Emirates", airlineCode: "EK", flightNumber: "EK-516",
@@ -41,8 +41,8 @@ const flights = [
   },
   {
     origin: "BOM", destination: "LHR",
-    departureDate: new Date("2026-05-29"),
-    arrivalDate: new Date("2026-05-29"),
+    departureDate: new Date("2026-06-29"),
+    arrivalDate: new Date("2026-06-29"),
     totalDuration: 540, stops: 0, flightType: "direct",
     segments: [{
       airline: "Air India", airlineCode: "AI", flightNumber: "AI-111",
@@ -58,8 +58,8 @@ const flights = [
   },
   {
     origin: "DEL", destination: "SIN",
-    departureDate: new Date("2026-05-30"),
-    arrivalDate: new Date("2025-05-30"),
+    departureDate: new Date("2026-06-30"),
+    arrivalDate: new Date("2025-06-30"),
     totalDuration: 330, stops: 0, flightType: "direct",
     segments: [{
       airline: "Singapore Airlines", airlineCode: "SQ", flightNumber: "SQ-407",
