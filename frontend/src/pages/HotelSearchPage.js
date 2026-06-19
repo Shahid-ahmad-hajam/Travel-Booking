@@ -17,7 +17,7 @@ const POPULAR_CITIES = [
     name: "Paris",
     country: "France",
     emoji: "🇫🇷",
-    img: "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=400&q=80",
+    img: "https://unsplash.com/photos/eiffel-tower-during-daytime-Q0-fOL2nqZc",
   },
   {
     name: "New York",
