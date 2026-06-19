@@ -7,7 +7,7 @@ import "./HomePage.css";
 
 const DESTINATIONS = [
   { name: "Bali", country: "Indonesia", img: "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=400&q=80", tag: "Beach Paradise" },
-  { name: "Paris", country: "France", img: "https://unsplash.com/photos/eiffel-tower-during-daytime-Q0-fOL2nqZc", tag: "City of Love" },
+  { name: "Paris", country: "France", img: "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", tag: "City of Love" },
   { name: "Tokyo", country: "Japan", img: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=400&q=80", tag: "Tech & Tradition" },
   { name: "Santorini", country: "Greece", img: "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=400&q=80", tag: "Island Dreams" },
   { name: "New York", country: "USA", img: "https://images.unsplash.com/photo-1522083165195-3424ed129620?w=400&q=80", tag: "The Big Apple" },
