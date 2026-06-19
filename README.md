@@ -2,6 +2,9 @@
 
 A full-stack travel booking platform with a React frontend and a Node.js/Express backend. The app supports flight and hotel search, user authentication, bookings, Razorpay payments, booking confirmations, and user profile management.
 
+A full-stack travel booking platform...
+🌐 Live Demo: https://travel-booking-puce-three.vercel.app/
+
 ## Project structure
 
 ```
@@ -17,16 +20,37 @@ travel-booking/
 │   ├── package.json
 │   └── server.js                # API entry point
 └── frontend/                    # React single-page app
-    ├── public/
-    ├── src/
-    │   ├── components/         # Shared UI components
-    │   ├── context/            # Auth context
-    │   ├── pages/              # Page routes
-    │   ├── utils/              # API client and helpers
-    │   ├── App.js              # Router + app shell
-    │   └── index.js            # App bootstrap
-    └── package.json
+|   ├── public/
+|   ├── src/
+|   │   ├── components/         # Shared UI components
+|   │   ├── context/            # Auth context
+|   │   ├── pages/              # Page routes
+|   │   ├── utils/              # API client and helpers
+|   │   ├── App.js              # Router + app shell
+|   │   └── index.js            # App bootstrap
+|   |---package.json
+|
+|---Screenshots
 ```
+
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Flight Search
+
+![Flight Search](screenshots/flights.png)
+
+### Hotel Search
+
+![Hotel Search](screenshots/hotels.png)
+
+### Booking Page
+
+![Booking Page](screenshots/booking.png)
+
 
 ## Key features
 
